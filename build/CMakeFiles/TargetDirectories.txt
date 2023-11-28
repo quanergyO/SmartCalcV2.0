@@ -1,0 +1,4 @@
+/home/quanergy/projects/CPP3_SmartCalc_v2.0-1/src/build/CMakeFiles/view.dir
+/home/quanergy/projects/CPP3_SmartCalc_v2.0-1/src/build/CMakeFiles/edit_cache.dir
+/home/quanergy/projects/CPP3_SmartCalc_v2.0-1/src/build/CMakeFiles/rebuild_cache.dir
+/home/quanergy/projects/CPP3_SmartCalc_v2.0-1/src/build/CMakeFiles/view_autogen.dir
